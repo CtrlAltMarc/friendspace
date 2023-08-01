@@ -12,7 +12,7 @@ export default function Footer() {
               target="_blank"
               rel="noreferrer noopener"
             >
-              Prepared by <span className="text-green-400">Wouldn't you Like to know Weather boy</span>
+              Prepared by <span className="text-green-400">Wouldnt you Like to know Weather boy</span>
             </a>
           </small>
         </div>
